@@ -5,6 +5,6 @@ Our project is based on the rules of Conway's Game of Life, using Java to comple
 Please run the GOLParallel.java file to run the project.
 
 # Images
-![image](https://github.com/yyj398596791/GameOfLife/tree/master/images/image01.jpg)
-![image](https://github.com/yyj398596791/GameOfLife/tree/master/images/image03.jpg)
-![image](https://github.com/yyj398596791/GameOfLife/tree/master/images/image02.jpg)
+![Image text](https://raw.githubusercontent.com/yyj398596791/GameOfLife/master/images/image01.jpg)
+![Image text](https://raw.githubusercontent.com/yyj398596791/GameOfLife/master/images/image03.jpg)
+![Image text](https://raw.githubusercontent.com/yyj398596791/GameOfLife/master/images/image02.jpg)
